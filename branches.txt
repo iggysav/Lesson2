@@ -1,0 +1,4 @@
+  dev
+  features/do_one
+* hotfix/we_gonna_die
+  master
